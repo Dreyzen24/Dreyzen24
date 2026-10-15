@@ -22,12 +22,10 @@
 
 <br />
 
-<a href="./LENGUAJES.md" title="Ver cómo se calcula la distribución de lenguajes">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.gif" />
-  <img src="./assets/languages-light.gif" width="100%" alt="Lenguajes por bytes de fuente en proyectos públicos y privados. Valores y método en LENGUAJES.md." />
+  <img src="./assets/languages-light.gif" width="100%" alt="Lenguajes por bytes de código fuente en proyectos públicos y privados." />
 </picture>
-</a>
 
 <br />
 
